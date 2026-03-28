@@ -1,4 +1,4 @@
-# Compputer-Vision
+# Computer-Vision
 Collection of simple computer vision experiments using Python, OpenCV, and NumPy.
 # Image Processing Lab -- OpenCV (Python)
 
